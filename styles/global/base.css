@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    background-color: var(--cor-secundaria-1);
+}
+
+body{
+    margin: 0;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    background-color: var(--cor-secundaria-1);
+}
+
+::selection{
+    color: var(--cor-secundaria-1);
+    background-color: var(--cor-primaria);
+}
+
+a{
+    background-color: transparent;
+    cursor: pointer;
+}
+
+img{
+    border-style: none;
+}

@@ -1,0 +1,9 @@
+@import '../global/global.css';
+
+@import './partials/nav.css';
+@import './partials/apresentacao.css';
+@import './partials/sobre.css';
+@import './partials/tecnologias.css';
+@import './partials/projetos.css';
+@import './partials/github.css';
+@import './partials/footer.css';
