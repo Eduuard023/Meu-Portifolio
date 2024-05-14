@@ -7,4 +7,5 @@ Este é o repositório do meu portfólio, onde demonstro minhas habilidades e pr
 - **HTML**: Utilizado para estruturar as páginas web.
 - **CSS**: Utilizado para estilizar o layout e a apresentação das páginas.
 - **JavaScript**: Utilizado para adicionar interatividade e funcionalidades dinâmicas ao portfólio.
+- **Bootstrap**: Uma biblioteca CSS utilizada para facilitar o desenvolvimento de interfaces web responsivas e com componentes prontos para uso. Mais informações podem ser encontradas [aqui](https://getbootstrap.com/).
 - **VanillaTilt**: Uma biblioteca JavaScript utilizada para adicionar efeitos de inclinação aos elementos HTML. Mais informações podem ser encontradas [aqui](https://micku7zu.github.io/vanilla-tilt.js/).
