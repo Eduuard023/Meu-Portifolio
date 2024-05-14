@@ -8,6 +8,7 @@ section.tecnologias {
     background-size: cover;
     background-position: center;
     background-color: var(--cor-secundaria-2);
+    
 }
 
 section.tecnologias .titulo {
@@ -71,6 +72,7 @@ section.tecnologias .itens .item .conteudo {
     background-color: var(--cor-secundaria-4);
     padding: 60px 20px;
     border-radius: 15px;
+    height: 350px;
 }
 
 section.tecnologias .itens .item .conteudo.diferente {
